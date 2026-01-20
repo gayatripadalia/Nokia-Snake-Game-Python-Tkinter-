@@ -36,11 +36,6 @@ Speed increases immediately after eating food and gradually relaxes using a cool
 ## How to Run
 python snake_game.py
 
-## Project Structure
-nokia-snake-game/
-├── snake_game.py
-└── README.md
-
 ## Author
 Gayatri Padalia  
 BCA (Hons.) AI & Data Science  
